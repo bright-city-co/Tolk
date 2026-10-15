@@ -1,46 +1,46 @@
 ---
-title: Privacybeleid Tolk
+title: Tolk Privacy Policy
 permalink: /privacy/
 ---
 
-# Privacybeleid Tolk
+# Tolk Privacy Policy
 
-*Laatst bijgewerkt: 7 oktober 2026*
+*Last updated: October 15, 2026*
 
-Tolk is een iOS-toetsenbord dat vertaalt wat je typt en gekopieerde berichten terugvertaalt naar jouw taal. Dit beleid beschrijft welke gegevens Tolk verwerkt en, belangrijker, welke niet.
+Tolk is an iOS keyboard that translates what you type and translates copied messages back into your language. This policy describes what data Tolk processes and, more importantly, what it does not.
 
-## Kort
+## In short
 
-Tolk verzamelt, bewaart of verstuurt geen persoonsgegevens. Er zijn geen accounts, geen analytics, geen advertenties en geen servers van ons. Alles wat Tolk doet, gebeurt op je eigen toestel.
+Tolk does not collect, store, or transmit any personal data. There are no accounts, no analytics, no ads, and no servers of ours. Everything Tolk does happens on your own device.
 
-## Wat Tolk op je toestel verwerkt
+## What Tolk processes on your device
 
-**Wat je typt.** Het toetsenbord verwerkt je toetsaanslagen om suggesties en autocorrectie te geven. Het leert welke woorden en woordparen jij vaak gebruikt en bewaart die als tellingen in een afgeschermde opslag op je toestel (de zogeheten App Group van Tolk). Die lijst is te wissen in de Tolk-app onder Opties.
+**What you type.** The keyboard processes your keystrokes to provide suggestions and autocorrection. It learns which words and word pairs you use often and stores them as counts in protected storage on your device (Tolk's App Group). You can clear this list in the Tolk app under Options.
 
-**Vertalen.** Vertalingen worden gemaakt met Apple's Translation-framework, volledig op het toestel. De tekst verlaat je telefoon niet. De taalpakketten die daarvoor nodig zijn, download je eenmalig via Apple.
+**Translation.** Translations are made with Apple's Translation framework, entirely on the device. Your text never leaves your phone. The language packs needed for this are downloaded once from Apple.
 
-**Klembord.** Alleen wanneer je op de klembordknop tikt (of de optie "gekopieerde tekst automatisch vertalen" aanzet) leest Tolk de tekst op je klembord om die te vertalen. Tolk bewaart die tekst niet en stuurt hem nergens heen.
+**Clipboard.** Tolk reads the text on your clipboard only when you tap the clipboard button (or turn on the "automatically translate copied text" option), in order to translate it. Tolk does not store that text and does not send it anywhere.
 
-## Waarom Tolk om "Volledige toegang" vraagt
+## Why Tolk asks for "Full Access"
 
-iOS vraagt bij het inschakelen om "Volledige toegang" en toont daarbij een standaardwaarschuwing. Tolk heeft die toestemming uitsluitend nodig om het klembord te kunnen lezen voor de vertaling van gekopieerde berichten. Tolk maakt geen netwerkverbinding, ook niet met Volledige toegang aan. Zonder Volledige toegang werkt alles behalve de klembordvertaling.
+When you enable the keyboard, iOS asks for "Full Access" and shows a standard warning. Tolk needs this permission only to read the clipboard for translating copied messages. Tolk makes no network connections, even with Full Access turned on. Without Full Access, everything works except clipboard translation.
 
-## Wachtwoorden en beveiligde velden
+## Passwords and secure fields
 
-iOS biedt toetsenborden van derden niet aan in wachtwoordvelden; Tolk ziet die invoer dus nooit.
+iOS does not offer third-party keyboards in password fields, so Tolk never sees that input.
 
-## Gegevens van anderen
+## Other people's data
 
-Tolk leest geen chats of berichten; een toetsenbord ziet alleen het tekstveld waarin je typt. Berichten van anderen worden alleen verwerkt als jij ze zelf kopieert en laat vertalen, en ook dan alleen op je toestel.
+Tolk does not read chats or messages; a keyboard only sees the text field you are typing in. Messages from others are processed only when you copy them yourself and have them translated, and even then only on your device.
 
-## Kinderen
+## Children
 
-Tolk is niet gericht op kinderen en verzamelt van niemand gegevens.
+Tolk is not directed at children and does not collect data from anyone.
 
-## Wijzigingen
+## Changes
 
-Als dit beleid verandert, wordt de datum bovenaan aangepast en de nieuwe versie in de app en op deze pagina gepubliceerd.
+If this policy changes, the date at the top will be updated and the new version will be published in the app and on this page.
 
 ## Contact
 
-Vragen over privacy: gerben@fibby.org
+Privacy questions: gerben@fibby.org
